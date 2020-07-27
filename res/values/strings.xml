@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CO Sensor</string>
+    <string name="title1String">Gráfica CO</string>
+    <string name="temperatureString">°C</string>
+    <string name="humidityString">%</string>
+    
+
+    <string-array name="GraphOptions">
+        <item>Últimas muestras</item>
+        <item>Todas las muestras</item>
+    </string-array>
+</resources>
